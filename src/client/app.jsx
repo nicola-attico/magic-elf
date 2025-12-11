@@ -73,6 +73,7 @@ export default function App() {
             <header className="app-header">
                 <h1>Incident Response Manager - V1.1</h1>
                 <p>Incident Response Message</p>
+                <p>Same File V1.1</p>
                 <button className="create-button" onClick={handleCreateClick}>
                     Create New Incident
                 </button>

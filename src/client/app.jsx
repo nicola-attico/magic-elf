@@ -75,6 +75,7 @@ export default function App() {
                 <p>Incident Response Message</p>
                 <p>Same File V1.1</p>
                 <p>Same file V1.2</p>
+                <p>Merge file V1.2</p>
                 <button className="create-button" onClick={handleCreateClick}>
                     Create New Incident
                 </button>
